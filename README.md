@@ -15,14 +15,13 @@ This profile collects the projects I build for myself in the open. Each one stan
 * **Cross-border fintech.** ZarPay covers the UK to Pakistan remittance corridor with a native Android sender app and a Next.js operations panel.
 * **Operational platforms.** Rampart is an enforcement-first field service OS: deterministic FastAPI engine for FSM + audit + events, with Gemini-augmented incident command layered on top.
 
-## AI, Agents, Vibe Coding
+## AI & Agent Systems
 
 * LangGraph orchestrators with hybrid pgvector + tsvector retrieval, Langfuse tracing, and LLM-as-judge evaluation (Meridian).
 * Production MCP servers as a TypeScript monorepo, distributed via npm (MCP Toolkit, three servers: GitHub, Linear, Gmail).
 * WhatsApp Business AI agent on the Meta Cloud API with structured tool loops and full Postgres audit (Cue).
 * Manifest V3 browser extension that summarizes pages and drafts replies through Groq or Claude (Glean).
 * Real-time collaborative document editor on Phoenix LiveView with Claude as a co-author and multi-user presence (Scribe).
-* Day-to-day I run my whole solo studio through Claude Code agents: scaffolding, code review, deploys, even Fiverr banner generation goes through custom subagents.
 
 ## Tech Stack
 
